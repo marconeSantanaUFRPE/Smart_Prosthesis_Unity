@@ -14,7 +14,7 @@ public class script_mao : MonoBehaviour
     void Start()
     {
     velocidade_mover = 10;
-    velocida_girar = 50;    
+    velocida_girar = 60;    
     }
 
     // Update is called once per frame
